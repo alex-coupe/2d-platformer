@@ -1,0 +1,7 @@
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts\obj\Debug\ApplicationScripts.csproj.AssemblyReference.cache
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts\obj\Debug\ApplicationScripts.csproj.CoreCompileInputs.cache
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts\obj\Debug\ApplicationScripts.csproj.CopyComplete
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts\obj\Debug\ApplicationScripts.dll
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts\obj\Debug\ApplicationScripts.pdb
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts.dll
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\2d Test\Assets\Scripts\bin\ApplicationScripts.pdb

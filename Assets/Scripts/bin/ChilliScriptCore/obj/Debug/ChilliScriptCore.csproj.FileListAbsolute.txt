@@ -1,0 +1,6 @@
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore\obj\Debug\ChilliScriptCore.csproj.AssemblyReference.cache
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore\obj\Debug\ChilliScriptCore.csproj.CoreCompileInputs.cache
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore\obj\Debug\ChilliScriptCore.dll
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore\obj\Debug\ChilliScriptCore.pdb
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore.dll
+C:\Users\dh211628.DHDOM1\OneDrive - Dunnhumby Ltd\Documents\Projects\Test\Assets\Scripts\bin\ChilliScriptCore.pdb
